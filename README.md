@@ -10,7 +10,7 @@
 📚 Estudiante de Desarrollo de Aplicaciones Multiplataforma
 📝 Tengo mucho interes en Ciberseguridad
 🛠️ Usualmente programando LUA en motor de videojuegos Roblox Studio
-🌱 Aprendiendo todos los dias 1% mas que ayer
+🌱 Aprendiendo todos los dias 1%, mas que ayer
 🌟 Principal Lenguaje: JavaScript 😁
 🚩 Interesado en Inteligencia Artificial y Agentes IA
 😃 Experto en WordPress.
