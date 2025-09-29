@@ -1,6 +1,6 @@
-# Angel Jaime
+# Joshua Navia
 
-<h2 align="center">About me</h2>
+<h2 align="center">Sobre Mi</h2>
 
 ```golang
 package main
@@ -92,6 +92,3 @@ func GetBio() Bio {
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 ----
-Credit: [AnhellO](https://github.com/AnhellO)
-
-Last Edited on: 23/09/2020
