@@ -46,21 +46,6 @@
     width="60px"
     alt="Spring (Spring-boot)">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg"
-    width="60px"
-    alt="Apache Kafka">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-plain-wordmark.svg"
-    width="60px"
-    alt="Gradle">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://logodix.com/logo/699172.png"
-    width="60px"
-    alt="Maven">
-    &nbsp;&nbsp;&nbsp;
 
   </br>
 
@@ -75,11 +60,6 @@
     alt="npm">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
-    width="60px"
-    alt="Angular">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
     width="60px"
     alt="React">
@@ -88,21 +68,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg"
     width="60px"
     alt="Bootstrap">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
-    width="60px"
-    alt="Jasmine">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-plain-wordmark.svg"
-    width="60px"
-    alt="Jasmine">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karma/karma-original.svg"
-    width="60px"
-    alt="Karma">
     &nbsp;&nbsp;&nbsp;&nbsp;
   
   <!-- Storages -->
@@ -117,11 +82,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
     width="60px"
     alt="PostgreSQL">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg"
-    width="60px"
-    alt="Firebase">
     &nbsp;&nbsp;&nbsp;&nbsp;
   
   <!-- Tools -->
