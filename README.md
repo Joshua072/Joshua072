@@ -16,13 +16,6 @@
 😃 I look forward to collaborate on impactful projects
 </pre>
 
-
-### 🎧 Ahora escuchando
-
-[![Spotify](https://spotify-readme.vercel.app/api/now-playing)](https://open.spotify.com/track/51CGbL9BAw1896waeHoR9w)
-
-*Canción actual: **X19X** de **Feid*** 
-
 <!-- STACK -->
 <div align="center" width="100">
   <h1>Stack</h1>
