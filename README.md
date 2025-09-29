@@ -18,7 +18,7 @@
 
 <!-- STACK -->
 <div align="center" width="100">
-  <h1>Stack</h1>
+  <h1>Competencias Digitales</h1>
   
   <!-- Languages -->
   </br>
