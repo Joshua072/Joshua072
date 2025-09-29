@@ -19,7 +19,7 @@
 
 ### 🎧 Ahora escuchando
 
-[![Now Playing](https://spotify-readme.vercel.app/api/now-playing)](https://open.spotify.com/track/51CGbL9BAw1896waeHoR9w)
+[![Spotify](https://spotify-readme.vercel.app/api/now-playing)](https://open.spotify.com/track/51CGbL9BAw1896waeHoR9w)
 
 *Canción actual: **X19X** de **Feid*** 
 
