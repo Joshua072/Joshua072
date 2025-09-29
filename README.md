@@ -89,6 +89,12 @@
     width="60px"
     alt="PostgreSQL">
     &nbsp;&nbsp;&nbsp;&nbsp;
+	<img 
+	src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" 
+	alt="MySQL Logo" 
+	width="60" 
+	height="40"/>
+
   
   <!-- Tools -->
   </br>
