@@ -17,11 +17,11 @@
 </pre>
 
 
-### Spotify Playing 🎧
+### 🎧 Ahora escuchando
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Now Playing](https://spotify-readme.vercel.app/api/now-playing)](https://open.spotify.com/track/51CGbL9BAw1896waeHoR9w)
 
----
+*Canción actual: **X19X** de **Feid*** 
 
 <!-- STACK -->
 <div align="center" width="100">
