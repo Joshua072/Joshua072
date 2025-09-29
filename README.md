@@ -88,21 +88,6 @@
   </br>
   <h3>Herramientas</h3>
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
-    width="60px"
-    alt="Jenkins">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://static.wixstatic.com/media/778dda_9e3bec106a7f4c85b5526ddcf35226cf~mv2.png"
-    width="60px"
-    alt="Openshift">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg"
-    width="60px"
-    alt="Kubernetes">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
     width="60px"
     alt="Docker">
@@ -110,21 +95,6 @@
   
   </br>
   
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"
-    width="60px"
-    alt="Jira">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg"
-    width="60px"
-    alt="Confluence">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg"
-    width="60px"
-    alt="Trello">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png"
     width="60px"
