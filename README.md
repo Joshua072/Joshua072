@@ -23,8 +23,6 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
 <!-- STACK -->
 <div align="center" width="100">
   <h1>Stack</h1>
