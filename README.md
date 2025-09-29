@@ -120,6 +120,10 @@
 	&nbsp;&nbsp;&nbsp;&nbsp;
 
 <h3>Sistemas Operativos</h3>
+</br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows Logo" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu Logo" width="60" height="60"/>
+
 
 
 
