@@ -5,6 +5,17 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
+<pre>
+💻 I am mainly a Backend Developer
+📚 I have a Bachelors in Computer Science from the University of Dar Es Salaam
+📝 I have a strong interest in Software Engineering and Design
+🛠️ Currently working on a fintech solution with @PesaLock
+🌱 Learning about efficient designs for scalable systems
+🌟 Main language: Java 😁
+🚩 Interested in Server Side Application development
+😃 I look forward to collaborate on impactful projects
+</pre>
+
 <!-- STACK -->
 <div align="center" width="100">
   <h1>Stack</h1>
