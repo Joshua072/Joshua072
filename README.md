@@ -89,6 +89,7 @@
 	alt="MySQL Logo" 
 	width="60" 
 	height="40"/>
+	&nbsp;&nbsp;&nbsp;&nbsp;
 
   
   <!-- Tools -->
@@ -112,6 +113,18 @@
     width="60px"
     alt="VS Code">
     &nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" 
+	alt="Eclipse Logo" 
+	width="60" 
+	height="60"/>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+
+<h3>Sistemas Operativos</h3>
+
+
+
+
+	
   
 </div>
 
