@@ -11,7 +11,7 @@
   
   <!-- Languages -->
   </br>
-  <h3>Languages</h3>
+  <h3>Lenguajes</h3>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
     width="60px"
@@ -117,7 +117,7 @@
   
   <!-- Storages -->
   </br>
-  <h3>Storages</h3>
+  <h3>Base de Datos</h3>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
     width="60px"
@@ -136,7 +136,7 @@
   
   <!-- Tools -->
   </br>
-  <h3>Tools</h3>
+  <h3>Herramientas</h3>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
     width="60px"
